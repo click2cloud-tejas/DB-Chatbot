@@ -1,0 +1,7 @@
+transformers==4.33.0
+torch==2.0.1
+langchain_community==0.2.0
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+pandas==1.5.3
+pyodbc==5.0.2
